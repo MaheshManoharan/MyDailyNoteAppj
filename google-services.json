@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441491795741",
+    "project_id": "mydailynotegroovy",
+    "storage_bucket": "mydailynotegroovy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441491795741:android:fca65a7f7c44bb39423bf4",
+        "android_client_info": {
+          "package_name": "android.ktcodelab.mydailynote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441491795741-hjvnup8i6sn69e6eoan2ots4hgjqmgn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDynXkVT0WGdHpjfGOXfxmCPtS2b4-UrpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441491795741-hjvnup8i6sn69e6eoan2ots4hgjqmgn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

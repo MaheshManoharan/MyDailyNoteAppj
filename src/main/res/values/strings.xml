@@ -1,0 +1,55 @@
+
+<resources>
+    <string name="app_name">My Daily Note</string>
+
+    //----------------------------- Authentication Screen ----------------------
+
+    <string name="auth_title">Welcome back</string>
+    <string name="hi">Hi</string>
+    <string name="auth_subtitle">Please sign in to continue</string>
+
+    //----------------------------- Home Screen ----------------------
+
+    <string name="home_screen_topbar_title">My Notes</string>
+
+    <string name="home_text">Home</string>
+    <string name="create_note_text">Create New Note</string>
+
+
+    <string name="sign_out">Sing Out</string>
+    <string name="sign_out_alert_dialog_message">Are you sure you want to sign out from your Account?</string>
+
+    <string name="delete_all_alert_dialog_title">Delete All Notes</string>
+    <string name="delete_all_alert_dialog_message">Are you sure you want to permanently delete all your notes?</string>
+    <string name="all_notes_deleted_toast_message">All Notes Deleted</string>
+
+    //----------------------------- Settings Screen ----------------------
+    <string name="settings_text">Settings</string>
+    <string name="create_pin_lock_text">Setup Pin Lock</string>
+    <string name="change_pin_lock_text">Change Your Pin</string>
+    <string name="disable_pin_lock_text">Disable Pin Lock</string>
+    <string name="disable_pin_lock_message_text">Are you sure want to Disable Pin Lock?</string>
+
+
+    //----------------------------- Write Screen ----------------------
+
+    <string name="textfield_title_placeholder">Title</string>
+    <string name="textfield_description_placeholder">Write something…</string>
+
+    //----------------------------- App Update Alert ----------------------
+
+    <string name="new_update_title">Update Available!</string>
+    <string name="new_update_message">Please update now…</string>
+    <string name="goto_playstore">https://play.google.com/store/apps/details?id=android.ktcodelab.mydailynote</string>
+
+
+    //----------------------------- Admob ----------------------
+
+    <string name="firebase_collection">Admob_Ads</string>
+    <string name="firebase_document_ID">ZriRoGYwP4fIZrfavHWv</string>
+
+    <!--Admob-->
+<!--    <string name="banner_ad_id">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="interstitial_ad_id">ca-app-pub-3940256099942544/1033173712</string>-->
+
+</resources>
